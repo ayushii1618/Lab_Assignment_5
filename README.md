@@ -1,3 +1,5 @@
+# Lab_Assignment_5
+
 SciPy & NumPy Basic Operations
 
 This repository demonstrates fundamental operations using NumPy and SciPy, popular Python libraries for scientific computing and linear algebra. The scripts provide practical examples of array manipulation, matrix computations, and sparse matrix handling.
